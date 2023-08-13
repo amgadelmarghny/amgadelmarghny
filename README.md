@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aamgad Elmarghny
-- 👀 I’m interested in mobile applications
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter developer
+- 👀 I’m interested in  Developing Mobile Apps with Flutter.
+- 🌱 I’m currently learning Advanced Flutter Development.
+- 💞️ I’m looking to collaborate on working as a Flutter Developer
 - 📫 How to reach me:
         mobile: +201552599210
         email: codmego@gmail.com
